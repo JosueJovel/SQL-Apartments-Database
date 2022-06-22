@@ -1,0 +1,11 @@
+DROP VIEW Apartment_Stats;
+DROP VIEW Empty_Apartments;
+DROP TABLE Tenant_References;
+DROP TABLE Tenants;
+DROP TABLE Features;
+DROP TABLE Apartments;
+DROP TABLE Floor_Plan;
+DROP TABLE Inspections;
+DROP TABLE Renovated_Buildings;
+DROP TABLE New_Buildings;
+DROP TABLE Buildings;
