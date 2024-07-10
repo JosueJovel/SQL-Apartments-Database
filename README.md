@@ -1,5 +1,5 @@
 # SQL-Practice-Database
-An Oracle database for a fictional Rental Property Business. Built from scratch, starting with only textual description of what the client wanted. Documentation of the database can be found within the Project pdf file. NOTE: Queries will only work properly when executed through Oracle's SQL Plus.
+An Oracle database for a fictional Rental Property Business. Built from scratch, starting with only textual description of what the client wanted. Documentation of the database, Including Entity Relationship Diagrams, can be found within the Project pdf file. NOTE: Queries will only work properly when executed through Oracle's SQL Plus.
 
 
 The following describes what every sql file does:
